@@ -25,7 +25,7 @@ ThisThis project features a Python script designed to prepare a large Airlines O
 
 ### **Step 1: Clone the Repository**
 ```
-git clone https://github.com/anieze-gad/airlines-performance-tableau
+git clone https://github.com/anieze-gad/Data-consolidation-for-Tableau-On-time-performance-viz
 ```
 
 ### **Step 2: Install Dependencies**
